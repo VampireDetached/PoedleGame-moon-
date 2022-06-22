@@ -13,8 +13,7 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        widget.cpp \
-    BaseTrie.cpp
+        widget.cpp
 
 HEADERS  += widget.h \
     BaseTrie.h
