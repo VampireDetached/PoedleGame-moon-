@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>title.png</file>
+        <file>wordle_words.txt</file>
+        <file>moonpoems.txt</file>
+        <file>substitute.txt</file>
+    </qresource>
+</RCC>
